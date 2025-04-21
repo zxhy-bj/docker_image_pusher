@@ -8,5 +8,6 @@ grafana/grafana:11.2.0
 aoshiguchen/neutrino-proxy-server:latest
 gpustack/gpustack:latest
 ghcr.io/open-webui/open-webui:main
+hagb/docker-easyconnect:cli
 #支持指定架构
 #--platform=linux/arm64
